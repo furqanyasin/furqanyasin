@@ -6,7 +6,7 @@
 
 - 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute to Open Source projects
+- 🥅 2026 Goals: Contribute to Open Source projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqanyasin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-furqan" /> </p>
 
